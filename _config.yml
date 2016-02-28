@@ -1,7 +1,7 @@
 name: PDX 4Seasons Nail Spa
 favicon: null
-layout_spectrum: 0.46404079953208566
-typography_spectrum: 0.44501228583976626
+layout_spectrum: 0.16621
+typography_spectrum: 0.55216
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#ffffff'
+    - '#00f339'
+    - '#00b14b'
+    - '#67f552'
+    - '#4ecb84'
   brandStrength: 0.748218237888068
   lightness: 0.25168234924785793
   saturation: 0.12925008730962873
