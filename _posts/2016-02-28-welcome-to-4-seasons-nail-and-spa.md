@@ -3,21 +3,17 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-28T02:52:11.279Z'
-dateModified: '2016-02-28T02:50:51.732Z'
-title: 'Welcome to 4 Seasons Nail & Spa'
+description: 'Welcome to 4 Seasons Nail & Spa '
+datePublished: '2016-07-23T11:47:56.589Z'
+dateModified: '2016-07-23T11:47:48.120Z'
+title: ''
 author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
 sourcePath: _posts/2016-02-28-welcome-to-4-seasons-nail-and-spa.md
-published: true
+via: {}
+authors: []
+publisher: {}
+starred: true
 url: welcome-to-4-seasons-nail-and-spa/index.html
 _type: Article
 
